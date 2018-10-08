@@ -1,0 +1,7 @@
+{
+  "name": "wangqi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
